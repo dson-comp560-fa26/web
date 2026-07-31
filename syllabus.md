@@ -51,13 +51,13 @@ Grades for the course are based largely on effort. Effort is measured in various
 
 ### Rubric for each marking period (MP1-MP4)
 
-For each marking period, a student will receive a score according to the following rubric. The notions of _activity log_,  _deliverable_, _research achievement_, and _public activity log post_ are defined in more detail later. 
+For each marking period, a student will receive a score according to the following rubric. The notions of _activity log_,  _deliverable_, _research achievement_, and _required activities_ are defined in more detail later. 
 
 | Score | Criteria |
 |-------|----------|
-| 90-100 | Activity log and deliverables provide convincing evidence of meeting the MTE and include providing help to other students; contributions are of very high quality and at least some contributions represent research achievement; meeting attendance and public activity log posts adhere to policy |
-| 80-89 | Activity log and deliverables provide convincing evidence of meeting the MTE; contributions are of good quality but need not represent research achievement; meeting attendance and public activity log posts adhere to policy |
-| 70-79 | Activity log and deliverables provide evidence of substantial effort (a significant fraction of the MTE); contributions meet minimal expectations for quality; meeting attendance and public activity log posts adhere to policy |
+| 90-100 | Activity log and deliverables provide convincing evidence of meeting the MTE and include providing help to other students; contributions are of very high quality and at least some contributions represent research achievement; meeting attendance and required activities adhere to policy |
+| 80-89 | Activity log and deliverables provide convincing evidence of meeting the MTE; contributions are of good quality but need not represent research achievement; meeting attendance and required activities adhere to policy |
+| 70-79 | Activity log and deliverables provide evidence of substantial effort (a significant fraction of the MTE); contributions meet minimal expectations for quality; meeting attendance and required activities adhere to policy |
 | 60-69 | Activity log and deliverables provide evidence of substantial effort (a significant fraction of the MTE); contributions do not meet minimal expectations for quality |
 | <60 | Activity log and deliverables do not provide evidence of substantial effort |
 
@@ -87,6 +87,14 @@ A _research achievement_ is any deliverable that goes beyond existing scientific
 ### Helping other students
 
 It is an expectation that experienced students will provide substantial amounts of help to inexperienced students. Helping others is a highly valued activity and should be emphasized in a student's activity log. To achieve an outstanding grade in the course, it will be necessary to provide substantial assistance to other students.
+
+### Required activities
+
+Required activities include
+- weekly _public activity log_ posts (PAL1-PAL12 on the course schedule, and see also the [activity log page](activity-logs.md));
+- attendance at weekly lab meetings (LM1-LM12 on the course schedule, and see also the [attendance policy](attendance.md));
+- presenting a _chalk talk_ at a weekly meeting (see the [chalk talk](chalk-talk.md) page);
+- participate in an _interaction meeting_ with another student at least once every marking period (see the [interaction meeting](./interaction-meetings.md) page).
 
 ### Grade threshold
 

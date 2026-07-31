@@ -1,0 +1,3 @@
+# Interaction meetings
+
+At least once per marking period, you must meet with another student participant for at least 1 hour. This is called an _interaction meeting_. Discuss and describe your projects to each other. Seek help and ask for advice from the other participant. Log your meeting and a brief summary of what you discussed in your activity log. Make sure to include "interaction meeting" in the topic of your post. You must meet with a different student each marking period.
