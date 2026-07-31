@@ -1,10 +1,8 @@
-# COMP560: Independent Research, fall 2026
+# COMP560: Independent Research, spring 2026: Remembering and forgetting in micro-LLMs 
 
-<!-- ## Liberating chain-of-thought reasoning in large language models -->
 
-Under construction 
-
-<!-- * [Onboarding activities](onboarding.md) -->
+* [Onboarding activities](https://github.com/dnulab/completion_training)
+* [First research experiment: Phonebook](https://github.com/dnulab/completion_training/tree/main/phonebook)
 <!-- * [Activity logs](activity-logs.md) - <font color="red">includes Activity Log schedule for MP3 and MP4 (added 3/25/2026)</font> -->
 <!-- * [Syllabus](syllabus.md) -->
 <!-- * [Possible projects](possible-projects.md) -->
