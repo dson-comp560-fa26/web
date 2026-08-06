@@ -1,4 +1,4 @@
-# COMP560: Independent Research, spring 2026: Remembering and forgetting in micro-LLMs 
+# COMP560: Independent Research, fall 2026: Remembering and forgetting in micro-LLMs 
 
 
 * [Syllabus](syllabus.md)
