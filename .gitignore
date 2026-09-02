@@ -7,3 +7,6 @@ _site/
 
 # emacs backups
 *~
+
+.commit_msg_proposed
+
