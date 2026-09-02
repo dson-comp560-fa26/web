@@ -8,6 +8,7 @@
 * [Onboarding activities](https://github.com/dnulab/onboarding)
 * [First research experiment: Phonebook](https://github.com/dnulab/completion_training/tree/main/phonebook)
 * [Possible projects](possible-projects.md)
+* [Lab meeting agendas](lab-meeting-agendas.md)
 * [Events](events.md)
 <!-- * [Literature](literature/literature.md) -->
 <!-- * [Participants](participants.md) -->
