@@ -4,7 +4,29 @@ You must deliver at least one _chalk talk_ about your research at a lab meeting 
 
 Current schedule:
 
-| Date | Speaker | Topic |
-| --- | --- | --- |
+| Date  | Speaker  | Topic  |
+| ----- | -------- | ------ |
 | 9/9 (LM2) | jmac | Data retention in commercial LLMs |
-
+| 9/16 (LM3) |  |  |
+| 9/16 (LM3) |  |  |
+| 9/23 (LM4) |  |  |
+| 9/23 (LM4) |  |  |
+| 9/30 (LM5) |  |  |
+| 9/30 (LM5) |  |  |
+| 10/7 (LM6) |  |  |
+| 10/7 (LM6) |  |  |
+| 10/14 (LM7a) |  |  |
+| 10/14 (LM7a) |  |  |
+| 10/21 (LM7b) |  |  |
+| 10/21 (LM7b) |  |  |
+| 10/28 (LM8) |  |  |
+| 10/28 (LM8) |  |  |
+| 11/4 (LM9) |  |  |
+| 11/4 (LM9) |  |  |
+| (LM10 cancelled) |  |  |
+| 11/18 (LM11) |  |  |
+| 11/18 (LM11) |  |  |
+| 12/2 (LM12a) |  |  |
+| 12/2 (LM12a) |  |  |
+| 12/9 (LM12b) |  |  |
+| 12/9 (LM12b) |  |  |

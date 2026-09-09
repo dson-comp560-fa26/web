@@ -2,7 +2,7 @@
 
 
 * [Syllabus](syllabus.md)
-* [Overview schedule](./comp560-schedule.xlsx)
+* [Overview schedule](./comp560-schedule.xlsx?v9-9-2026)
 * [COMP560 Team](https://teams.microsoft.com/l/team/19%3AoHP7WQFSk8I9kCRoj9XPhlt9pLjQqrnfcDP9wYRLJH81%40thread.tacv2/conversations?groupId=cfb5d8f6-7b47-45af-ace3-e68372122ddd&tenantId=6232b055-76b9-4c13-9b88-b562ae7db6fb) on Microsoft Teams
 * [Activity logs](activity-logs.md)
 * [Onboarding activities](https://github.com/dnulab/onboarding)
