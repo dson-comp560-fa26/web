@@ -7,7 +7,7 @@ Current schedule:
 | Date  | Speaker  | Topic  |
 | ----- | -------- | ------ |
 | 9/9 (LM2) | jmac | Data retention in commercial LLMs |
-| 9/16 (LM3) |  |  |
+| 9/16 (LM3) | Ty | Comparing LLM performance on international humanitarian law |
 | 9/16 (LM3) |  |  |
 | 9/23 (LM4) |  |  |
 | 9/23 (LM4) |  |  |
