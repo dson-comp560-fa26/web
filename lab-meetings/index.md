@@ -2,7 +2,7 @@
 
 ## LM3, 9/16/2026 -- start of RWeek 3
 
-* overview of current activities -- random sample of about 5 people (I will paste the [participant list](./participants.md) into <https://www.random.org/lists/>)
+* overview of current activities -- random sample of about 5 people (I will paste the [participant list](../participants.md) into <https://www.random.org/lists/>)
 * Don't forget the [introductions channel](https://teams.microsoft.com/l/channel/19%3A496b4ad97da64459a40f11d360b6db22%40thread.tacv2/introductions?groupId=cfb5d8f6-7b47-45af-ace3-e68372122ddd&tenantId=6232b055-76b9-4c13-9b88-b562ae7db6fb)
 * chalk talk(s) for next week???
 * Some nice results from Kevin:
