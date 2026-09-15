@@ -4,11 +4,11 @@ You must deliver at least one _chalk talk_ about your research at a lab meeting 
 
 Current schedule:
 
-| Date  | Speaker  | Topic  |
-| ----- | -------- | ------ |
-| 9/9 (LM2) | jmac | Data retention in commercial LLMs |
-| 9/16 (LM3) |  |  |
-| 9/16 (LM3) |  |  |
+| Date       | Speaker  | Topic  |
+| -----      | -------- | ------ |
+| 9/9 (LM2)  | jmac     | Data retention in commercial LLMs |
+| 9/16 (LM3) | Ty       | Comparing LLM performance for international humanitarian law |
+| 9/16 (LM3) |          |  |
 | 9/23 (LM4) |  |  |
 | 9/23 (LM4) |  |  |
 | 9/30 (LM5) |  |  |
