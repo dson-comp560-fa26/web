@@ -9,11 +9,9 @@ Current schedule:
 | 9/9 (LM2)  | jmac     | Data retention in commercial LLMs |
 | 9/16 (LM3) | Ty       | Comparing LLM performance for international humanitarian law |
 | 9/16 (LM3) |          |  |
-| 9/23 (LM4) |  |  |
-| 9/23 (LM4) |  |  |
 | 9/30 (LM5) |  |  |
 | 9/30 (LM5) |  |  |
-| 10/7 (LM6) |  |  |
+| 10/7 (LM6) | Biruk | grokking and other jumps in learning |
 | 10/7 (LM6) |  |  |
 | 10/14 (LM7a) |  |  |
 | 10/14 (LM7a) |  |  |

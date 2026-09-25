@@ -1,5 +1,12 @@
 # Lab Meeting Agendas
 
+## LM5, 9/30/2026 -- start of RWeek 5
+
+* John Lee: demo/discussion on "Tips and tricks for AI assistance in LLM research"
+
+
+## LM4 -- cancelled
+
 ## LM3, 9/16/2026 -- start of RWeek 3
 
 * overview of current activities -- random sample of about 5 people (I will paste the [participant list](../participants.md) into <https://www.random.org/lists/>)
