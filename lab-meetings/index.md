@@ -2,8 +2,20 @@
 
 ## LM5, 9/30/2026 -- start of RWeek 5
 
-* John Lee: demo/discussion on "Tips and tricks for AI assistance in LLM research"
+Announcement:
 
+* If possible, aim to produce some concrete results with a written description before the end of MP2. Remember you can use unlimited AI assistance for coding, experimentation, and writing.
+  * Don't stress out about producing results, however. Grading will still primarily be based on effort.
+
+Demos/presentations:
+
+* jmac demo 1: Getting AI help for planning an experiment
+* jmac demo 2: Using code completion via GitHub Copilot in VScode (essentially free and unlimited)
+* jmac demo 3: Agentic mode with GitHub Copilot in VScode
+  * You may need to pay for the $20 per month tier for this service
+  * The $20 per month [Cursor](https://cursor.com/) offering may be better value -- it's easiest to work in their own development environment, not VScode.
+* John Lee: demo/discussion on "Tips and tricks for AI assistance in LLM research"
+* Jane Delassio chalk talk: "Bias in the ML Pipeline"
 
 ## LM4 -- cancelled
 
