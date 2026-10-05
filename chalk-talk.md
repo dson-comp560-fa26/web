@@ -9,8 +9,8 @@ Current schedule:
 | 9/9 (LM2)  | jmac     | Data retention in commercial LLMs |
 | 9/16 (LM3) | Ty       | Comparing LLM performance for international humanitarian law |
 | 9/30 (LM5) | Jane | Bias in the ML Pipeline |
-| 10/7 (LM6) | Biruk | grokking and other jumps in learning |
-| 10/7 (LM6) |  |  |
+| 10/7 (LM6) | Biruk | Grokking and other jumps in learning |
+| 10/7 (LM6) | Adacus | Why training costs cannot be reasonably estimated by a formula |
 | 10/14 (LM7a) |  |  |
 | 10/14 (LM7a) |  |  |
 | 10/21 (LM7b) |  |  |
