@@ -1,5 +1,23 @@
 # Lab Meeting Agendas
 
+## LM6, 10/7/2026 -- start of RWeek 6
+
+Announcements:
+
+* MP2 ends next Tuesday midnight:
+  * aim to meet the MTE (minimum time expectation) averaged over the three weeks of MP2.
+  * If you have concrete results, make sure to include a link to your results in your public and/or private activity logs this week.
+  * As previously announced, you can get a good grade without concrete results at this stage of the semester, but it is preferable to demonstrate results.
+* Possible future projects:
+  * Several of the suggested extensions at the end of the [phone book README](https://github.com/dnulab/onboarding/blob/main/phonebook/README.md) have not been tried by many people yet. These include: Capacity experiment, Hyperparameter experiment, Simple replay experiment
+  * There are two more general suggestions on the [possible subprojects](../possible-projects.md) page and more may be added. The current ones are "Replay via dreaming" and "Replay via distillation".
+
+Demos/presentations:
+
+* John Lee codex demo?
+* Biruk chalk talk: "Grokking and other jumps in learning"
+* Adacus chalk talk: "Why training costs cannot be reasonably estimated by a formula"
+
 ## LM5, 9/30/2026 -- start of RWeek 5
 
 Announcement:
