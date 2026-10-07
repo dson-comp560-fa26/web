@@ -11,6 +11,7 @@ Announcements:
 * Possible future projects:
   * Several of the suggested extensions at the end of the [phone book README](https://github.com/dnulab/onboarding/blob/main/phonebook/README.md) have not been tried by many people yet. These include: Capacity experiment, Hyperparameter experiment, Simple replay experiment
   * There are two more general suggestions on the [possible subprojects](../possible-projects.md) page and more may be added. The current ones are "Replay via dreaming" and "Replay via distillation".
+* Volunteers to mentor high school student?
 
 Demos/presentations:
 
