@@ -11,8 +11,7 @@ Current schedule:
 | 9/30 (LM5) | Jane | Bias in the ML Pipeline |
 | 10/7 (LM6) | Biruk | Grokking and other jumps in learning |
 | 10/7 (LM6) | Adacus | Why training costs cannot be reasonably estimated by a formula |
-| 10/14 (LM7a) |  |  |
-| 10/14 (LM7a) |  |  |
+| 10/14 (LM7a) | jmac | The earliest micro-LLM? Hinton's 1985 "family tree" paper, "Learning distributed representations of concepts" |
 | 10/21 (LM7b) |  |  |
 | 10/21 (LM7b) |  |  |
 | 10/28 (LM8) |  |  |
