@@ -9,7 +9,7 @@ Additional suggestions:
   * Standard distillation might appear silly in this situation, because it amounts to training a model based on both sets of data i.e., both phone books. However, it is still interesting to investigate how quickly the training converges under a variety of approaches. For example, what if we initialize the distillation from model A compared to initializing from model B, and perhaps from some hybrid like A model constructed by alternately taking layers from A and B.
   * Suppose we deliberately make the problem harder by retaining the list of names in phonebooks A and B but we do not know which book they were in. So now we need to distill from both models simultaneously for any given input. Are we still able to get perfect accuracy and if so what is the extra expense of training? It could be as simple as picking the highest logit from either model and targeting that.
   * What if we use phone books A and B are of very different sizes? For example what if phone book A is 10 100 or 1000 times the size of phone book B? How does this affect the distillation process and the final performance of the distilled model?
-* Create new phone books A and B that have some kind of interdependency so that there is overlap between the information learned in model A and model B. As one possible example, imagine that the second name of a person determines the first six digits of their phone number:
+  * Create new phone books A and B that have some kind of interdependency so that there is overlap between the information learned in model A and model B. As one possible example, imagine that the second name of a person determines the first six digits of their phone number:
 
     ```text
     Anra Blackmore=970-720-1840
@@ -23,3 +23,5 @@ Additional suggestions:
     ```
 
     Now we can rerun all the phone book experiments with this more complex data set in which phone book A and phone book B will share some knowledge even if their names (consider as 2-tuples) are completely disjoint. Distillation experiments will be much more interesting in this context.
+* **Scale and forgetting:** If we fix the amount of information to be memorized and then vary the size of the model, how does the extent of forgetting change? Obvious scale parameters include the width and depth of the network and the model dimension.
+* **Protecting a data item:** Is it possible to determine the approximate location of a specific data item within the model's parameters? This could involve techniques like gradient-based attribution or other interpretability methods to identify which weights or neurons are most responsible for storing that particular piece of information. If we can determine where the item is stored, can we protect the item from being forgotten by freezing those particular parameters?
