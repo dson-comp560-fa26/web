@@ -15,5 +15,5 @@
 <!-- * [Participants](participants.md) -->
 <!-- * [Github links](github-links.md) -->
 <!-- * [Publication and presentation opportunities](pub-and-present.md) -->
-<!-- * [Final artifacts](./reports/) (research reports and posters) -->
+* [Final artifacts](./reports/) (research reports and posters)
 <!-- * [Mid-semester survey](https://forms.office.com/r/775hKcHekF) -->
