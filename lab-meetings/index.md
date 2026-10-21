@@ -2,12 +2,10 @@
 
 ## LM7a, 10/14/2026 -- start of RWeek 7
 
-* RWeek 7 runs for 2 weeks of real time, until 10/27. MTE applies to the period 10/14-10/27.
+* RWeek 7 runs for two weeks of real time, until 10/27. MTE applies to the period 10/14-10/27.
 * This is a good time to start on a more ambitious project (but not required).
-* Instructions for final report and/or poster are now available. (_in fact, under construction as of 10/13_)
+* Instructions for final reports and posters are now available: see the [Final artifacts page](../reports/) on the main course page.
 * Chalk talk: jmac -- 'The earliest micro-LLM? Hinton's 1985 "family tree" paper, "Learning distributed representations of concepts"'
-
-
 
 ## LM6, 10/7/2026 -- start of RWeek 6
 
