@@ -1,5 +1,17 @@
 # Lab Meeting Agendas
 
+## LM8, 10/28/2026 -- start of RWeek 8
+
+* Discussion of course feedback.
+* Reminder of requirements by end of semester:
+  * chalk talk
+  * "a final report, a final poster, or both" (quote from syllabus) -- due by 12/19
+    * You will be invited to present your work in a poster/discussion session early next semester. (This is an ungraded but nevertheless required component of the course.)
+* A random sample of five students will be asked to give a brief verbal summary (1-2 minutes) of their recent work and results.
+* Free time to hang out and ask other lab members for help
+
+## LM7b, 10/21/2026 -- optional
+
 ## LM7a, 10/14/2026 -- start of RWeek 7
 
 * RWeek 7 runs for two weeks of real time, until 10/27. MTE applies to the period 10/14-10/27.
