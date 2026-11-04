@@ -1,5 +1,14 @@
 # Lab Meeting Agendas
 
+## LM9, 11/4/2026 -- start of RWeek 9
+
+* no meeting next week
+  * instead it is strongly recommended to attend the Priestley Award lecture by Hadley Wickham (he is one of the world's greatest data scientists and software developers!) -- [y code when ai?](https://www.clarkeforum.org/wednesday-november-11-2026-joseph-priestley-award-celebration-lecture/)
+* new deadline: schedule your chalk talk before the end of this Rweek i.e. by midnight on 11/10/2026
+  * this will be part of your MP3 grade
+* main activity for tonight: randomized interaction meetings🙂🙂
+
+
 ## LM8, 10/28/2026 -- start of RWeek 8
 
 * Discussion of course feedback.
