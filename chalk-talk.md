@@ -12,14 +12,8 @@ Current schedule:
 | 10/7 (LM6) | Biruk | Grokking and other jumps in learning |
 | 10/7 (LM6) | Adacus | Why training costs cannot be reasonably estimated by a formula |
 | 10/14 (LM7a) | jmac | The earliest micro-LLM? Hinton's 1985 "family tree" paper, "Learning distributed representations of concepts" |
-| 10/21 (LM7b) |  |  |
-| 10/21 (LM7b) |  |  |
-| 10/28 (LM8) |  |  |
-| 10/28 (LM8) |  |  |
-| 11/4 (LM9) |  |  |
-| 11/4 (LM9) |  |  |
 | (LM10 cancelled) |  |  |
-| 11/18 (LM11) |  |  |
+| 11/18 (LM11) | Sofia | Chemistry LLM |
 | 11/18 (LM11) |  |  |
 | 12/2 (LM12a) |  |  |
 | 12/2 (LM12a) |  |  |
