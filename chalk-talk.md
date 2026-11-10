@@ -14,8 +14,11 @@ Current schedule:
 | 10/14 (LM7a) | jmac | The earliest micro-LLM? Hinton's 1985 "family tree" paper, "Learning distributed representations of concepts" |
 | (LM10 cancelled) |  |  |
 | 11/18 (LM11) | Sofia | Chemistry LLM |
-| 11/18 (LM11) |  |  |
-| 12/2 (LM12a) |  |  |
-| 12/2 (LM12a) |  |  |
-| 12/9 (LM12b) |  |  |
+| 11/18 (LM11) | Son |  |
+| 11/18 (LM11) | Aaron | how training length and the Adam optimizer shape length generalization |
+| 12/2 (LM12a) | Harrison | Second Brain |
+| 12/2 (LM12a) | Rayyan | IBM STair |
+| 12/2 (LM12a) | Kevin |  |
+| 12/2 (LM12a) | Phu |  |
+| 12/9 (LM12b) | Mason |  |
 | 12/9 (LM12b) |  |  |
