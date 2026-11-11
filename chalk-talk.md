@@ -21,4 +21,4 @@ Current schedule:
 | 12/2 (LM12a) | Kevin |  |
 | 12/2 (LM12a) | Phu |  |
 | 12/9 (LM12b) | Mason |  |
-| 12/9 (LM12b) |  |  |
+| 12/9 (LM12b) | Khang |  |
