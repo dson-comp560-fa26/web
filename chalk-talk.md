@@ -22,3 +22,5 @@ Current schedule:
 | 12/2 (LM12a) | Phu |  |
 | 12/9 (LM12b) | Mason |  |
 | 12/9 (LM12b) | Khang |  |
+| 12/9 (LM12b) | Latherine |  |
+| 12/9 (LM12b) | John |  |
